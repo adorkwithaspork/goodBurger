@@ -1,0 +1,23 @@
+li {
+  padding: 25px;
+  margin: 25px;
+  background: #064d1b;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 300;
+  color: aliceblue;
+  
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 25px;
+  margin: 25px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 25px;
+}
